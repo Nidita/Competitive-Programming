@@ -1,2 +1,2 @@
 # Competitive Programming
- Codes
+ Codes of different online judges
